@@ -1,2 +1,2 @@
 # Pong
-First Pong game em Java Script
+Jogo pong feito em Java Script no p5.
